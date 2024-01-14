@@ -1,0 +1,1 @@
+# courseraGoogleCybersecurityAnalyst-Activities
